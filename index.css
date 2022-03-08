@@ -9,14 +9,13 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 8px;
+    padding: 1px;
 }
 .cabecalho-imagem{
     height: 47px;
 }
 .cabecalho-menu{
     display: flex;
-    gap: 18px;
 }
 .cabecalho-item{
     padding: 4px;
@@ -45,7 +44,7 @@ body{
     width: 250px;
 }
 .principal-imagem{
-    height: 250px;
+    height: 130px;
 }
 .principal-botao{
     width: 85px;
