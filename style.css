@@ -46,11 +46,19 @@ body{
 .principal-1 button{
     font-family: "sarala",sans-serif;
     padding: 5px;
-    margin: 8px;
     border-radius: 8px;
 }
 .principal-1 button:hover{
     background-color: gray;
+}
+.principal-1 audio{
+    width: 100px;
+}
+.controles{
+    display: flex;
+    padding: 10px 0px 0px;
+    justify-content: space-evenly;
+    align-items: center;
 }
 .principal-2 img{
     width: 200px;
